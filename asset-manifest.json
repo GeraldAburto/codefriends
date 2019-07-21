@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codefriends/static/css/main.f74d2d2e.chunk.css",
+    "main.js": "/codefriends/static/js/main.cd4bafaf.chunk.js",
+    "main.js.map": "/codefriends/static/js/main.cd4bafaf.chunk.js.map",
+    "runtime~main.js": "/codefriends/static/js/runtime~main.1dab4f5b.js",
+    "runtime~main.js.map": "/codefriends/static/js/runtime~main.1dab4f5b.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/codefriends/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/codefriends/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/codefriends/index.html",
+    "precache-manifest.3964f52bf2feaa09ecf68e3e2c4f3c77.js": "/codefriends/precache-manifest.3964f52bf2feaa09ecf68e3e2c4f3c77.js",
+    "service-worker.js": "/codefriends/service-worker.js",
+    "static/css/main.f74d2d2e.chunk.css.map": "/codefriends/static/css/main.f74d2d2e.chunk.css.map"
+  }
+}
